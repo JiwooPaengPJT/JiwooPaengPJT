@@ -9,7 +9,7 @@
 - **소개**  : 위치기반 모바일 소셜 서비스 <br>
 - **기간**  : 2023.10 ~ 2023.11 <br>
 - **담당**  : Front-End (GPS 기반 사용자 실시간 위치 추적 구현, 모바일 지도 구현)
-- **활용 기술** : TypeScript, React Native, React, Recoil
+- **활용 기술** : JavaScript, TypeScript, React Native, React, Recoil
 - **플레이스토어** : <a href="https://play.google.com/store/apps/details?id=com.popplar.myapplication&hl=ko-KR" target="_blank">바로가기</a>
 
 ## NEWSTOCKS
@@ -18,7 +18,7 @@
 - **소개**  : 주식 차트 정보, 뉴스 및 투자 기록 공유 웹 서비스 <br>
 - **기간**  : 2023.8 ~ 2023.10 <br>
 - **담당**  : Front-End (FE 리드 | FE 아키텍쳐 관리, 주식 투자 기록 작성 및 필터링 구현, 사용자 인증 인가 구현)
-- **활용 기술** : TypeScript, React, Next.js, Recoil
+- **활용 기술** : JavaScript, TypeScript, React, Next.js, Recoil
 
 ## unofficial
 <img src="https://github.com/JiwooPaengPJT/JiwooPaengPJT/assets/122516162/c4f3f329-31ee-480a-849a-19b25287b738" width="128"/><br>
